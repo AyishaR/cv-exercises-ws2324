@@ -12,5 +12,5 @@ def example_function(input_variable: float) -> float:
     """
     # START TODO #################
     # return the input times two
-    raise NotImplementedError
+    return 2*input_variable
     # END TODO ###################
